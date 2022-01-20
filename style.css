@@ -1,0 +1,55 @@
+#main
+{
+    position: relative;
+    background-color:grey;
+    width: 20%;
+    height:120;
+    left: 30%;
+    top: 10%;
+    padding-left: 20px;
+    border-radius: 10px;
+
+    
+}
+h3,h6{
+    color:#FFFFFF;
+    display: inline-block;
+    margin-right: 3px;
+    margin-bottom: 20px;
+}
+#btn_play{
+    position:absolute;
+    left: 80%;
+    top: 10%;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 20px;
+    color: #FFFFFF;
+    
+}
+#plus{
+    width: 25px;
+    height: 25px;
+    background-color: #000;
+    color: #FFFFFF;
+    position: relative;
+    top: -3px;
+    border-radius: 100%;
+    border-color: #000;
+    cursor: pointer;
+}
+#minus{
+    width: 25px;
+    height: 25px;
+    background-color: #000;
+    color: #FFFFFF;
+    position: relative;
+    top: -3px;
+    border-radius: 100%;
+    border-color: #000;
+    cursor: pointer;
+}
+#metronome{
+    width: 70%;
+    margin-left: 7px ;
+}
